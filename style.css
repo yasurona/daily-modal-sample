@@ -46,3 +46,15 @@
     top: -30px;
     right: 18px;
 }
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.after_modal_shown {
+    border: 2px solid #1b0303;
+    text-align: center;
+}
